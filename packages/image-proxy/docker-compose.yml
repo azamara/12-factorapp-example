@@ -1,7 +1,7 @@
 version: '3'
 services:
   app:
-    image: 12-factorapp-wow/image-proxy:1.0.0
+    image: 12-factorapp-example/image-proxy:1.0.0
     env_file:
       - .env
     ports:

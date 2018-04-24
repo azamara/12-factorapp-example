@@ -1,10 +1,4 @@
-# 12-factorapp-wow
-
-## Docker Cheatsheet
-
-```
-docker stop $(docker ps -aq) 
-```
+# 12-factorapp-example
 
 ## The Twelve Factors
 ### I. Codebase
@@ -42,3 +36,9 @@ Treat logs as event streams
 
 ### XII. Admin processes
 Run admin/management tasks as one-off processes
+
+## Docker Cheatsheet
+
+```
+docker stop $(docker ps -aq) 
+```

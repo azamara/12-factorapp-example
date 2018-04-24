@@ -1,5 +1,5 @@
 version: '3'
 services:
   helloworld:
-    image: 12-factorapp-wow/ha:1.0.0
+    image: 12-factorapp-example/ha:1.0.0
     restart: always

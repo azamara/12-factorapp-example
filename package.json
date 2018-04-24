@@ -1,5 +1,5 @@
 {
-  "name": "12-factorapp-wow",
+  "name": "12-factorapp-example",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azamara/12-factorapp-wow.git"
+    "url": "git+https://github.com/azamara/12-factorapp-example.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azamara/12-factorapp-wow/issues"
+    "url": "https://github.com/azamara/12-factorapp-example/issues"
   },
-  "homepage": "https://github.com/azamara/12-factorapp-wow#readme"
+  "homepage": "https://github.com/azamara/12-factorapp-example#readme"
 }
